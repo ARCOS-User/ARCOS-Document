@@ -12,7 +12,7 @@ ARCOS is a general automation control system for any equipment written by LabVie
 - External Library ( Python, C/C++, .Net )
 - CAD Module
 - AI Module
-# Requirement:  
+# Requirements:  
 - LabView 2020 X64(Now you can install Labviw 2020 Community Version to add your own function)  
 - NI Vision Development Module (Labviw 2020 Community Version)
 - NI VAS (Labviw 2020 Community Version)
